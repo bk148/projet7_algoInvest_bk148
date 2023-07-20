@@ -5,8 +5,6 @@ from dataSeclect.basedata import create_df
 import itertools
 
 
-
-
 def bruteforce(create_df):
     csv_content = create_df
     budget = 500
